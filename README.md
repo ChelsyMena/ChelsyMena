@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Chelsy!
 
 🎯 **Aspiring Data Scientist & Machine Learning Engineer**  
-🔍 Passionate about ML & AI, data-driven solutions, and model deployment
+🔍 Passionate about ML & AI, data-driven solutions, and model deployment  
 📍 Based in France | Open to internship opportunities in Data Science, ML & AI
 
 ## 🚀 About Me
